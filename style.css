@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-family: cursive;
+}
+body{
+    background-color: white;
+}
+h2{
+    text-align: center;
+    color: brown;
+    font-style: oblique;
+}
+h4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blueviolet;
+}
+div{
+    text-align: center;
+    color: #f57913;
+
+}
+div.class{
+    text-align: center;
+    }
+     p{
+        text-align: center;
+    }
